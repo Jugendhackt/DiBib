@@ -75,4 +75,3 @@ while True:
         if LastState2 == GPIO.LOW:
             Button2 ()
     LastState2 = GPIO.input(11)
-    #Moin
